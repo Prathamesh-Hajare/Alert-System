@@ -1,0 +1,45 @@
+{
+	"id1": {
+	  "interval": 1,
+	  "metric_query": "-1h:now:some_me_name:avg",
+	  "condition_operator": ">",
+	  "condition_value": 50
+	},
+	"id2": {
+	  "interval": 5,
+	  "metric_query": "-1h:now:another_me_name:avg",
+	  "condition_operator": "<",
+	  "condition_value": 30
+	},
+	"id3": {
+	  "interval": 4,
+	  "metric_query": "-1h:now:another_me_name:avg",
+	  "condition_operator": "<",
+	  "condition_value": 15
+	},
+	"id4": {
+	  "interval": 2,
+	  "metric_query": "-1h:now:another_me_name:avg",
+	  "condition_operator": "<",
+	  "condition_value": 10
+	},
+	"id5": {
+	  "interval": 5,
+	  "metric_query": "-1h:now:another_me_name:avg",
+	  "condition_operator": "<",
+	  "condition_value": 30
+	},
+	"id6": {
+	  "interval": 5,
+	  "metric_query": "-1h:now:another_me_name:avg",
+	  "condition_operator": ">",
+	  "condition_value": 12
+	},
+	"id7": {
+	  "interval": 5,
+	  "metric_query": "-1h:now:another_me_name:avg",
+	  "condition_operator": "<",
+	  "condition_value": 30
+	}
+  }
+  

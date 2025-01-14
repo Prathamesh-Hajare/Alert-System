@@ -1,0 +1,300 @@
+2025-01-14T04:50:00.860Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:20:00 GMT+0530 (India Standard Time)
+2025-01-14T04:50:00.864Z INFO: Scheduled evaluation for alert id2 at Tue Jan 14 2025 10:20:00 GMT+0530 (India Standard Time)
+2025-01-14T04:50:01.548Z INFO: Alert id1 triggered at Tue Jan 14 2025 10:20:01 GMT+0530 (India Standard Time)
+2025-01-14T04:50:01.550Z ERROR: ALERT id1 LAG: Scheduled: Tue Jan 14 2025 10:20:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:20:01 GMT+0530 (India Standard Time), Lag: 691 ms
+2025-01-14T04:50:01.579Z INFO: Alert id2 triggered at Tue Jan 14 2025 10:20:01 GMT+0530 (India Standard Time)
+2025-01-14T04:50:01.581Z ERROR: ALERT id2 LAG: Scheduled: Tue Jan 14 2025 10:20:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:20:01 GMT+0530 (India Standard Time), Lag: 717 ms
+2025-01-14T04:53:00.455Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:23:00 GMT+0530 (India Standard Time)
+2025-01-14T04:53:00.878Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 10:23:00 GMT+0530 (India Standard Time)
+2025-01-14T04:53:00.881Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:23:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:23:00 GMT+0530 (India Standard Time), Lag: 425 ms
+2025-01-14T04:54:00.236Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:24:00 GMT+0530 (India Standard Time)
+2025-01-14T04:54:00.240Z INFO: Scheduled evaluation for alert id3 at Tue Jan 14 2025 10:24:00 GMT+0530 (India Standard Time)
+2025-01-14T04:54:00.241Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 10:24:00 GMT+0530 (India Standard Time)
+2025-01-14T04:54:00.376Z INFO: Alert id1 triggered at Tue Jan 14 2025 10:24:00 GMT+0530 (India Standard Time)
+2025-01-14T04:54:00.379Z INFO: ALERT id1 evaluation complete at Tue Jan 14 2025 10:24:00 GMT+0530 (India Standard Time). Lag: 144 ms
+2025-01-14T04:54:00.470Z INFO: Alert id3 did not trigger at Tue Jan 14 2025 10:24:00 GMT+0530 (India Standard Time)
+2025-01-14T04:54:00.472Z ERROR: ALERT id3 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:24:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:24:00 GMT+0530 (India Standard Time), Lag: 232 ms
+2025-01-14T04:54:01.282Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 10:24:01 GMT+0530 (India Standard Time)
+2025-01-14T04:54:01.285Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:24:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:24:01 GMT+0530 (India Standard Time), Lag: 1043 ms
+2025-01-14T05:13:00.723Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:43:00 GMT+0530 (India Standard Time)
+2025-01-14T05:13:01.067Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 10:43:01 GMT+0530 (India Standard Time)
+2025-01-14T05:13:01.070Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:43:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:43:01 GMT+0530 (India Standard Time), Lag: 348 ms
+2025-01-14T05:14:00.306Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:44:00 GMT+0530 (India Standard Time)
+2025-01-14T05:14:00.315Z INFO: Scheduled evaluation for alert id3 at Tue Jan 14 2025 10:44:00 GMT+0530 (India Standard Time)
+2025-01-14T05:14:00.316Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 10:44:00 GMT+0530 (India Standard Time)
+2025-01-14T05:14:00.478Z INFO: Alert id3 did not trigger at Tue Jan 14 2025 10:44:00 GMT+0530 (India Standard Time)
+2025-01-14T05:14:00.480Z INFO: ALERT id3 evaluation complete at Tue Jan 14 2025 10:44:00 GMT+0530 (India Standard Time). Lag: 165 ms
+2025-01-14T05:14:01.057Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 10:44:01 GMT+0530 (India Standard Time)
+2025-01-14T05:14:01.058Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:44:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:44:01 GMT+0530 (India Standard Time), Lag: 752 ms
+2025-01-14T05:14:01.368Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 10:44:01 GMT+0530 (India Standard Time)
+2025-01-14T05:14:01.370Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:44:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:44:01 GMT+0530 (India Standard Time), Lag: 1054 ms
+2025-01-14T05:15:00.870Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:45:00 GMT+0530 (India Standard Time)
+2025-01-14T05:15:00.872Z INFO: Scheduled evaluation for alert id2 at Tue Jan 14 2025 10:45:00 GMT+0530 (India Standard Time)
+2025-01-14T05:15:00.873Z INFO: Scheduled evaluation for alert id5 at Tue Jan 14 2025 10:45:00 GMT+0530 (India Standard Time)
+2025-01-14T05:15:00.873Z INFO: Scheduled evaluation for alert id6 at Tue Jan 14 2025 10:45:00 GMT+0530 (India Standard Time)
+2025-01-14T05:15:00.874Z INFO: Scheduled evaluation for alert id7 at Tue Jan 14 2025 10:45:00 GMT+0530 (India Standard Time)
+2025-01-14T05:15:01.120Z INFO: Alert id5 triggered at Tue Jan 14 2025 10:45:01 GMT+0530 (India Standard Time)
+2025-01-14T05:15:01.122Z ERROR: ALERT id5 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:45:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:45:01 GMT+0530 (India Standard Time), Lag: 249 ms
+2025-01-14T05:15:01.136Z INFO: Alert id7 did not trigger at Tue Jan 14 2025 10:45:01 GMT+0530 (India Standard Time)
+2025-01-14T05:15:01.138Z ERROR: ALERT id7 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:45:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:45:01 GMT+0530 (India Standard Time), Lag: 264 ms
+2025-01-14T05:15:01.215Z INFO: Alert id2 triggered at Tue Jan 14 2025 10:45:01 GMT+0530 (India Standard Time)
+2025-01-14T05:15:01.217Z ERROR: ALERT id2 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:45:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:45:01 GMT+0530 (India Standard Time), Lag: 345 ms
+2025-01-14T05:15:01.372Z INFO: Alert id6 did not trigger at Tue Jan 14 2025 10:45:01 GMT+0530 (India Standard Time)
+2025-01-14T05:15:01.374Z ERROR: ALERT id6 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:45:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:45:01 GMT+0530 (India Standard Time), Lag: 501 ms
+2025-01-14T05:15:01.824Z INFO: Alert id1 triggered at Tue Jan 14 2025 10:45:01 GMT+0530 (India Standard Time)
+2025-01-14T05:15:01.827Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:45:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:45:01 GMT+0530 (India Standard Time), Lag: 957 ms
+2025-01-14T05:16:00.427Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:46:00 GMT+0530 (India Standard Time)
+2025-01-14T05:16:00.429Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 10:46:00 GMT+0530 (India Standard Time)
+2025-01-14T05:16:01.129Z INFO: Alert id1 triggered at Tue Jan 14 2025 10:46:01 GMT+0530 (India Standard Time)
+2025-01-14T05:16:01.132Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:46:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:46:01 GMT+0530 (India Standard Time), Lag: 705 ms
+2025-01-14T05:16:01.240Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 10:46:01 GMT+0530 (India Standard Time)
+2025-01-14T05:16:01.242Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:46:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:46:01 GMT+0530 (India Standard Time), Lag: 813 ms
+2025-01-14T05:17:00.951Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:47:00 GMT+0530 (India Standard Time)
+2025-01-14T05:17:01.436Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 10:47:01 GMT+0530 (India Standard Time)
+2025-01-14T05:17:01.438Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:47:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:47:01 GMT+0530 (India Standard Time), Lag: 487 ms
+2025-01-14T05:18:00.550Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:48:00 GMT+0530 (India Standard Time)
+2025-01-14T05:18:00.552Z INFO: Scheduled evaluation for alert id3 at Tue Jan 14 2025 10:48:00 GMT+0530 (India Standard Time)
+2025-01-14T05:18:00.552Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 10:48:00 GMT+0530 (India Standard Time)
+2025-01-14T05:18:00.801Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 10:48:00 GMT+0530 (India Standard Time)
+2025-01-14T05:18:00.803Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:48:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:48:00 GMT+0530 (India Standard Time), Lag: 251 ms
+2025-01-14T05:18:01.410Z INFO: Alert id1 triggered at Tue Jan 14 2025 10:48:01 GMT+0530 (India Standard Time)
+2025-01-14T05:18:01.412Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:48:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:48:01 GMT+0530 (India Standard Time), Lag: 862 ms
+2025-01-14T05:18:01.566Z INFO: Alert id3 did not trigger at Tue Jan 14 2025 10:48:01 GMT+0530 (India Standard Time)
+2025-01-14T05:18:01.567Z ERROR: ALERT id3 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:48:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:48:01 GMT+0530 (India Standard Time), Lag: 1016 ms
+2025-01-14T05:19:00.172Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:49:00 GMT+0530 (India Standard Time)
+2025-01-14T05:19:00.935Z INFO: Alert id1 triggered at Tue Jan 14 2025 10:49:00 GMT+0530 (India Standard Time)
+2025-01-14T05:19:00.937Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:49:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:49:00 GMT+0530 (India Standard Time), Lag: 765 ms
+2025-01-14T05:20:00.735Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time)
+2025-01-14T05:20:00.737Z INFO: Scheduled evaluation for alert id2 at Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time)
+2025-01-14T05:20:00.738Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time)
+2025-01-14T05:20:00.738Z INFO: Scheduled evaluation for alert id5 at Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time)
+2025-01-14T05:20:00.739Z INFO: Scheduled evaluation for alert id6 at Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time)
+2025-01-14T05:20:00.740Z INFO: Scheduled evaluation for alert id7 at Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time)
+2025-01-14T05:20:00.986Z INFO: Alert id5 did not trigger at Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time)
+2025-01-14T05:20:00.988Z ERROR: ALERT id5 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time), Lag: 250 ms
+2025-01-14T05:20:01.064Z INFO: Alert id2 did not trigger at Tue Jan 14 2025 10:50:01 GMT+0530 (India Standard Time)
+2025-01-14T05:20:01.066Z ERROR: ALERT id2 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:50:01 GMT+0530 (India Standard Time), Lag: 329 ms
+2025-01-14T05:20:01.283Z INFO: Alert id6 did not trigger at Tue Jan 14 2025 10:50:01 GMT+0530 (India Standard Time)
+2025-01-14T05:20:01.284Z ERROR: ALERT id6 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:50:01 GMT+0530 (India Standard Time), Lag: 545 ms
+2025-01-14T05:20:01.377Z INFO: Alert id7 did not trigger at Tue Jan 14 2025 10:50:01 GMT+0530 (India Standard Time)
+2025-01-14T05:20:01.378Z ERROR: ALERT id7 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:50:01 GMT+0530 (India Standard Time), Lag: 638 ms
+2025-01-14T05:20:01.423Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 10:50:01 GMT+0530 (India Standard Time)
+2025-01-14T05:20:01.425Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:50:01 GMT+0530 (India Standard Time), Lag: 687 ms
+2025-01-14T05:20:01.737Z INFO: Alert id1 triggered at Tue Jan 14 2025 10:50:01 GMT+0530 (India Standard Time)
+2025-01-14T05:20:01.739Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:50:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:50:01 GMT+0530 (India Standard Time), Lag: 1004 ms
+2025-01-14T05:21:00.297Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:51:00 GMT+0530 (India Standard Time)
+2025-01-14T05:21:00.672Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 10:51:00 GMT+0530 (India Standard Time)
+2025-01-14T05:21:00.674Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:51:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:51:00 GMT+0530 (India Standard Time), Lag: 377 ms
+2025-01-14T05:22:00.880Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:52:00 GMT+0530 (India Standard Time)
+2025-01-14T05:22:00.881Z INFO: Scheduled evaluation for alert id3 at Tue Jan 14 2025 10:52:00 GMT+0530 (India Standard Time)
+2025-01-14T05:22:00.882Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 10:52:00 GMT+0530 (India Standard Time)
+2025-01-14T05:22:01.472Z INFO: Alert id3 did not trigger at Tue Jan 14 2025 10:52:01 GMT+0530 (India Standard Time)
+2025-01-14T05:22:01.474Z ERROR: ALERT id3 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:52:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:52:01 GMT+0530 (India Standard Time), Lag: 593 ms
+2025-01-14T05:22:01.519Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 10:52:01 GMT+0530 (India Standard Time)
+2025-01-14T05:22:01.521Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:52:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:52:01 GMT+0530 (India Standard Time), Lag: 639 ms
+2025-01-14T05:22:01.800Z INFO: Alert id1 triggered at Tue Jan 14 2025 10:52:01 GMT+0530 (India Standard Time)
+2025-01-14T05:22:01.802Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:52:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:52:01 GMT+0530 (India Standard Time), Lag: 922 ms
+2025-01-14T05:23:00.513Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:53:00 GMT+0530 (India Standard Time)
+2025-01-14T05:23:01.594Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 10:53:01 GMT+0530 (India Standard Time)
+2025-01-14T05:23:01.595Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:53:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:53:01 GMT+0530 (India Standard Time), Lag: 1082 ms
+2025-01-14T05:24:00.088Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:54:00 GMT+0530 (India Standard Time)
+2025-01-14T05:24:00.089Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 10:54:00 GMT+0530 (India Standard Time)
+2025-01-14T05:24:01.082Z INFO: Alert id1 triggered at Tue Jan 14 2025 10:54:01 GMT+0530 (India Standard Time)
+2025-01-14T05:24:01.083Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:54:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:54:01 GMT+0530 (India Standard Time), Lag: 995 ms
+2025-01-14T05:24:01.177Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 10:54:01 GMT+0530 (India Standard Time)
+2025-01-14T05:24:01.179Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:54:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:54:01 GMT+0530 (India Standard Time), Lag: 1090 ms
+2025-01-14T05:25:00.628Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:55:00 GMT+0530 (India Standard Time)
+2025-01-14T05:25:00.675Z INFO: Scheduled evaluation for alert id2 at Tue Jan 14 2025 10:55:00 GMT+0530 (India Standard Time)
+2025-01-14T05:25:00.676Z INFO: Scheduled evaluation for alert id5 at Tue Jan 14 2025 10:55:00 GMT+0530 (India Standard Time)
+2025-01-14T05:25:00.677Z INFO: Scheduled evaluation for alert id6 at Tue Jan 14 2025 10:55:00 GMT+0530 (India Standard Time)
+2025-01-14T05:25:00.677Z INFO: Scheduled evaluation for alert id7 at Tue Jan 14 2025 10:55:00 GMT+0530 (India Standard Time)
+2025-01-14T05:25:01.052Z INFO: Alert id2 did not trigger at Tue Jan 14 2025 10:55:01 GMT+0530 (India Standard Time)
+2025-01-14T05:25:01.054Z ERROR: ALERT id2 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:55:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:55:01 GMT+0530 (India Standard Time), Lag: 379 ms
+2025-01-14T05:25:01.113Z INFO: Alert id5 did not trigger at Tue Jan 14 2025 10:55:01 GMT+0530 (India Standard Time)
+2025-01-14T05:25:01.114Z ERROR: ALERT id5 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:55:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:55:01 GMT+0530 (India Standard Time), Lag: 438 ms
+2025-01-14T05:25:01.347Z INFO: Alert id7 did not trigger at Tue Jan 14 2025 10:55:01 GMT+0530 (India Standard Time)
+2025-01-14T05:25:01.349Z ERROR: ALERT id7 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:55:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:55:01 GMT+0530 (India Standard Time), Lag: 672 ms
+2025-01-14T05:25:01.484Z INFO: Alert id6 triggered at Tue Jan 14 2025 10:55:01 GMT+0530 (India Standard Time)
+2025-01-14T05:25:01.486Z ERROR: ALERT id6 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:55:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:55:01 GMT+0530 (India Standard Time), Lag: 809 ms
+2025-01-14T05:25:01.546Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 10:55:01 GMT+0530 (India Standard Time)
+2025-01-14T05:25:01.548Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:55:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:55:01 GMT+0530 (India Standard Time), Lag: 920 ms
+2025-01-14T05:26:00.261Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:56:00 GMT+0530 (India Standard Time)
+2025-01-14T05:26:00.323Z INFO: Scheduled evaluation for alert id3 at Tue Jan 14 2025 10:56:00 GMT+0530 (India Standard Time)
+2025-01-14T05:26:00.324Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 10:56:00 GMT+0530 (India Standard Time)
+2025-01-14T05:26:00.776Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 10:56:00 GMT+0530 (India Standard Time)
+2025-01-14T05:26:00.778Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:56:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:56:00 GMT+0530 (India Standard Time), Lag: 454 ms
+2025-01-14T05:26:01.179Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 10:56:01 GMT+0530 (India Standard Time)
+2025-01-14T05:26:01.180Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:56:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:56:01 GMT+0530 (India Standard Time), Lag: 919 ms
+2025-01-14T05:26:01.412Z INFO: Alert id3 did not trigger at Tue Jan 14 2025 10:56:01 GMT+0530 (India Standard Time)
+2025-01-14T05:26:01.414Z ERROR: ALERT id3 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:56:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:56:01 GMT+0530 (India Standard Time), Lag: 1092 ms
+2025-01-14T05:27:00.874Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:57:00 GMT+0530 (India Standard Time)
+2025-01-14T05:27:01.095Z INFO: Alert id1 triggered at Tue Jan 14 2025 10:57:01 GMT+0530 (India Standard Time)
+2025-01-14T05:27:01.097Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:57:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:57:01 GMT+0530 (India Standard Time), Lag: 223 ms
+2025-01-14T05:28:00.492Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:58:00 GMT+0530 (India Standard Time)
+2025-01-14T05:28:00.555Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 10:58:00 GMT+0530 (India Standard Time)
+2025-01-14T05:28:00.851Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 10:58:00 GMT+0530 (India Standard Time)
+2025-01-14T05:28:00.853Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:58:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:58:00 GMT+0530 (India Standard Time), Lag: 361 ms
+2025-01-14T05:28:01.276Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 10:58:01 GMT+0530 (India Standard Time)
+2025-01-14T05:28:01.278Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:58:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:58:01 GMT+0530 (India Standard Time), Lag: 723 ms
+2025-01-14T05:29:00.068Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 10:59:00 GMT+0530 (India Standard Time)
+2025-01-14T05:29:00.983Z INFO: Alert id1 triggered at Tue Jan 14 2025 10:59:00 GMT+0530 (India Standard Time)
+2025-01-14T05:29:00.985Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 10:59:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 10:59:00 GMT+0530 (India Standard Time), Lag: 917 ms
+2025-01-14T05:30:00.622Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time)
+2025-01-14T05:30:00.685Z INFO: Scheduled evaluation for alert id2 at Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time)
+2025-01-14T05:30:00.686Z INFO: Scheduled evaluation for alert id3 at Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time)
+2025-01-14T05:30:00.712Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time)
+2025-01-14T05:30:00.713Z INFO: Scheduled evaluation for alert id5 at Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time)
+2025-01-14T05:30:00.713Z INFO: Scheduled evaluation for alert id6 at Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time)
+2025-01-14T05:30:00.714Z INFO: Scheduled evaluation for alert id7 at Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time)
+2025-01-14T05:30:00.917Z INFO: Alert id3 triggered at Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time)
+2025-01-14T05:30:00.919Z ERROR: ALERT id3 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time), Lag: 233 ms
+2025-01-14T05:30:01.153Z INFO: Alert id5 did not trigger at Tue Jan 14 2025 11:00:01 GMT+0530 (India Standard Time)
+2025-01-14T05:30:01.155Z ERROR: ALERT id5 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:00:01 GMT+0530 (India Standard Time), Lag: 442 ms
+2025-01-14T05:30:01.294Z INFO: Alert id1 triggered at Tue Jan 14 2025 11:00:01 GMT+0530 (India Standard Time)
+2025-01-14T05:30:01.295Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:00:01 GMT+0530 (India Standard Time), Lag: 673 ms
+2025-01-14T05:30:01.433Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 11:00:01 GMT+0530 (India Standard Time)
+2025-01-14T05:30:01.435Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:00:01 GMT+0530 (India Standard Time), Lag: 723 ms
+2025-01-14T05:30:01.650Z INFO: Alert id7 did not trigger at Tue Jan 14 2025 11:00:01 GMT+0530 (India Standard Time)
+2025-01-14T05:30:01.652Z ERROR: ALERT id7 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:00:01 GMT+0530 (India Standard Time), Lag: 938 ms
+2025-01-14T05:30:01.727Z INFO: Alert id2 triggered at Tue Jan 14 2025 11:00:01 GMT+0530 (India Standard Time)
+2025-01-14T05:30:01.729Z ERROR: ALERT id2 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:00:01 GMT+0530 (India Standard Time), Lag: 1044 ms
+2025-01-14T05:30:01.806Z INFO: Alert id6 did not trigger at Tue Jan 14 2025 11:00:01 GMT+0530 (India Standard Time)
+2025-01-14T05:30:01.808Z ERROR: ALERT id6 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:00:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:00:01 GMT+0530 (India Standard Time), Lag: 1095 ms
+2025-01-14T05:31:00.234Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:01:00 GMT+0530 (India Standard Time)
+2025-01-14T05:31:01.171Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 11:01:01 GMT+0530 (India Standard Time)
+2025-01-14T05:31:01.173Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:01:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:01:01 GMT+0530 (India Standard Time), Lag: 939 ms
+2025-01-14T05:32:00.887Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:02:00 GMT+0530 (India Standard Time)
+2025-01-14T05:32:00.888Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 11:02:00 GMT+0530 (India Standard Time)
+2025-01-14T05:32:01.073Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 11:02:01 GMT+0530 (India Standard Time)
+2025-01-14T05:32:01.074Z INFO: ALERT id1 evaluation complete at Tue Jan 14 2025 11:02:01 GMT+0530 (India Standard Time). Lag: 187 ms
+2025-01-14T05:32:01.975Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 11:02:01 GMT+0530 (India Standard Time)
+2025-01-14T05:32:01.976Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:02:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:02:01 GMT+0530 (India Standard Time), Lag: 1088 ms
+2025-01-14T05:33:00.515Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:03:00 GMT+0530 (India Standard Time)
+2025-01-14T05:33:00.703Z INFO: Alert id1 triggered at Tue Jan 14 2025 11:03:00 GMT+0530 (India Standard Time)
+2025-01-14T05:33:00.705Z INFO: ALERT id1 evaluation complete at Tue Jan 14 2025 11:03:00 GMT+0530 (India Standard Time). Lag: 190 ms
+2025-01-14T05:34:00.129Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:04:00 GMT+0530 (India Standard Time)
+2025-01-14T05:34:00.130Z INFO: Scheduled evaluation for alert id3 at Tue Jan 14 2025 11:04:00 GMT+0530 (India Standard Time)
+2025-01-14T05:34:00.130Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 11:04:00 GMT+0530 (India Standard Time)
+2025-01-14T05:34:00.487Z INFO: Alert id1 triggered at Tue Jan 14 2025 11:04:00 GMT+0530 (India Standard Time)
+2025-01-14T05:34:00.488Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:04:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:04:00 GMT+0530 (India Standard Time), Lag: 359 ms
+2025-01-14T05:34:00.860Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 11:04:00 GMT+0530 (India Standard Time)
+2025-01-14T05:34:00.862Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:04:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:04:00 GMT+0530 (India Standard Time), Lag: 732 ms
+2025-01-14T05:34:01.186Z INFO: Alert id3 did not trigger at Tue Jan 14 2025 11:04:01 GMT+0530 (India Standard Time)
+2025-01-14T05:34:01.188Z ERROR: ALERT id3 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:04:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:04:01 GMT+0530 (India Standard Time), Lag: 1058 ms
+2025-01-14T05:35:00.745Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:05:00 GMT+0530 (India Standard Time)
+2025-01-14T05:35:00.746Z INFO: Scheduled evaluation for alert id2 at Tue Jan 14 2025 11:05:00 GMT+0530 (India Standard Time)
+2025-01-14T05:35:00.747Z INFO: Scheduled evaluation for alert id5 at Tue Jan 14 2025 11:05:00 GMT+0530 (India Standard Time)
+2025-01-14T05:35:00.748Z INFO: Scheduled evaluation for alert id6 at Tue Jan 14 2025 11:05:00 GMT+0530 (India Standard Time)
+2025-01-14T05:35:00.748Z INFO: Scheduled evaluation for alert id7 at Tue Jan 14 2025 11:05:00 GMT+0530 (India Standard Time)
+2025-01-14T05:35:00.978Z INFO: Alert id2 triggered at Tue Jan 14 2025 11:05:00 GMT+0530 (India Standard Time)
+2025-01-14T05:35:00.981Z ERROR: ALERT id2 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:05:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:05:00 GMT+0530 (India Standard Time), Lag: 235 ms
+2025-01-14T05:35:01.010Z INFO: Alert id5 did not trigger at Tue Jan 14 2025 11:05:01 GMT+0530 (India Standard Time)
+2025-01-14T05:35:01.011Z ERROR: ALERT id5 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:05:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:05:01 GMT+0530 (India Standard Time), Lag: 264 ms
+2025-01-14T05:35:01.026Z INFO: Alert id7 did not trigger at Tue Jan 14 2025 11:05:01 GMT+0530 (India Standard Time)
+2025-01-14T05:35:01.027Z ERROR: ALERT id7 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:05:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:05:01 GMT+0530 (India Standard Time), Lag: 279 ms
+2025-01-14T05:35:01.665Z INFO: Alert id6 did not trigger at Tue Jan 14 2025 11:05:01 GMT+0530 (India Standard Time)
+2025-01-14T05:35:01.667Z ERROR: ALERT id6 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:05:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:05:01 GMT+0530 (India Standard Time), Lag: 919 ms
+2025-01-14T05:35:01.697Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 11:05:01 GMT+0530 (India Standard Time)
+2025-01-14T05:35:01.699Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:05:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:05:01 GMT+0530 (India Standard Time), Lag: 954 ms
+2025-01-14T05:36:00.366Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:06:00 GMT+0530 (India Standard Time)
+2025-01-14T05:36:00.367Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 11:06:00 GMT+0530 (India Standard Time)
+2025-01-14T05:36:00.552Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 11:06:00 GMT+0530 (India Standard Time)
+2025-01-14T05:36:00.554Z INFO: ALERT id4 evaluation complete at Tue Jan 14 2025 11:06:00 GMT+0530 (India Standard Time). Lag: 187 ms
+2025-01-14T05:36:01.005Z INFO: Alert id1 triggered at Tue Jan 14 2025 11:06:01 GMT+0530 (India Standard Time)
+2025-01-14T05:36:01.007Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:06:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:06:01 GMT+0530 (India Standard Time), Lag: 641 ms
+2025-01-14T06:05:00.198Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time)
+2025-01-14T06:05:00.203Z INFO: Scheduled evaluation for alert id2 at Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time)
+2025-01-14T06:05:00.204Z INFO: Scheduled evaluation for alert id5 at Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time)
+2025-01-14T06:05:00.205Z INFO: Scheduled evaluation for alert id6 at Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time)
+2025-01-14T06:05:00.206Z INFO: Scheduled evaluation for alert id7 at Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time)
+2025-01-14T06:05:00.556Z INFO: Alert id5 did not trigger at Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time)
+2025-01-14T06:05:00.559Z ERROR: ALERT id5 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time), Lag: 354 ms
+2025-01-14T06:05:00.664Z INFO: Alert id2 did not trigger at Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time)
+2025-01-14T06:05:00.667Z ERROR: ALERT id2 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time), Lag: 464 ms
+2025-01-14T06:05:01.053Z INFO: Alert id1 triggered at Tue Jan 14 2025 11:35:01 GMT+0530 (India Standard Time)
+2025-01-14T06:05:01.056Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:35:01 GMT+0530 (India Standard Time), Lag: 859 ms
+2025-01-14T06:05:01.147Z INFO: Alert id6 triggered at Tue Jan 14 2025 11:35:01 GMT+0530 (India Standard Time)
+2025-01-14T06:05:01.150Z ERROR: ALERT id6 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:35:01 GMT+0530 (India Standard Time), Lag: 945 ms
+2025-01-14T06:05:01.194Z INFO: Alert id7 did not trigger at Tue Jan 14 2025 11:35:01 GMT+0530 (India Standard Time)
+2025-01-14T06:05:01.196Z ERROR: ALERT id7 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:35:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:35:01 GMT+0530 (India Standard Time), Lag: 990 ms
+2025-01-14T06:06:00.048Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:36:00 GMT+0530 (India Standard Time)
+2025-01-14T06:06:00.053Z INFO: Scheduled evaluation for alert id3 at Tue Jan 14 2025 11:36:00 GMT+0530 (India Standard Time)
+2025-01-14T06:06:00.054Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 11:36:00 GMT+0530 (India Standard Time)
+2025-01-14T06:06:00.610Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 11:36:00 GMT+0530 (India Standard Time)
+2025-01-14T06:06:00.612Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:36:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:36:00 GMT+0530 (India Standard Time), Lag: 565 ms
+2025-01-14T06:06:00.671Z INFO: Alert id3 did not trigger at Tue Jan 14 2025 11:36:00 GMT+0530 (India Standard Time)
+2025-01-14T06:06:00.673Z ERROR: ALERT id3 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:36:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:36:00 GMT+0530 (India Standard Time), Lag: 620 ms
+2025-01-14T06:06:00.919Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 11:36:00 GMT+0530 (India Standard Time)
+2025-01-14T06:06:00.922Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:36:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:36:00 GMT+0530 (India Standard Time), Lag: 867 ms
+2025-01-14T06:09:00.718Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:39:00 GMT+0530 (India Standard Time)
+2025-01-14T06:09:00.937Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 11:39:00 GMT+0530 (India Standard Time)
+2025-01-14T06:09:00.940Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:39:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:39:00 GMT+0530 (India Standard Time), Lag: 223 ms
+2025-01-14T06:11:03.337Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:04.346Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:05.361Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:06.375Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:07.377Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:08.390Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:09.400Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:10.415Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:11.426Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:12.437Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:13.441Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:14.453Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:15.467Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:16.481Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:17.490Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:11:48.945Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 0, [31mFailed[39m: 0
+2025-01-14T06:12:00.232Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:42:00 GMT+0530 (India Standard Time)
+2025-01-14T06:12:00.236Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 11:42:00 GMT+0530 (India Standard Time)
+2025-01-14T06:12:01.011Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 11:42:01 GMT+0530 (India Standard Time)
+2025-01-14T06:12:01.014Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:42:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:42:01 GMT+0530 (India Standard Time), Lag: 782 ms
+2025-01-14T06:12:01.294Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 11:42:01 GMT+0530 (India Standard Time)
+2025-01-14T06:12:01.296Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:42:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:42:01 GMT+0530 (India Standard Time), Lag: 1060 ms
+2025-01-14T06:12:08.949Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 2, [31mFailed[39m: 0
+2025-01-14T06:12:28.956Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 2, [31mFailed[39m: 0
+2025-01-14T06:12:48.966Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 2, [31mFailed[39m: 0
+2025-01-14T06:13:00.872Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:43:00 GMT+0530 (India Standard Time)
+2025-01-14T06:13:01.435Z INFO: Alert id1 triggered at Tue Jan 14 2025 11:43:01 GMT+0530 (India Standard Time)
+2025-01-14T06:13:01.437Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:43:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:43:01 GMT+0530 (India Standard Time), Lag: 565 ms
+2025-01-14T06:13:08.968Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 3, [31mFailed[39m: 0
+2025-01-14T06:13:28.983Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 3, [31mFailed[39m: 0
+2025-01-14T06:13:48.984Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 3, [31mFailed[39m: 0
+2025-01-14T06:14:00.495Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:44:00 GMT+0530 (India Standard Time)
+2025-01-14T06:14:00.496Z INFO: Scheduled evaluation for alert id3 at Tue Jan 14 2025 11:44:00 GMT+0530 (India Standard Time)
+2025-01-14T06:14:00.497Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 11:44:00 GMT+0530 (India Standard Time)
+2025-01-14T06:14:00.698Z INFO: Alert id3 triggered at Tue Jan 14 2025 11:44:00 GMT+0530 (India Standard Time)
+2025-01-14T06:14:00.700Z ERROR: ALERT id3 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:44:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:44:00 GMT+0530 (India Standard Time), Lag: 204 ms
+2025-01-14T06:14:01.337Z INFO: Alert id1 did not trigger at Tue Jan 14 2025 11:44:01 GMT+0530 (India Standard Time)
+2025-01-14T06:14:01.339Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:44:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:44:01 GMT+0530 (India Standard Time), Lag: 844 ms
+2025-01-14T06:14:01.352Z INFO: Alert id4 triggered at Tue Jan 14 2025 11:44:01 GMT+0530 (India Standard Time)
+2025-01-14T06:14:01.354Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:44:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:44:01 GMT+0530 (India Standard Time), Lag: 857 ms
+2025-01-14T06:14:08.985Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 6, [31mFailed[39m: 0
+2025-01-14T06:14:29.000Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 6, [31mFailed[39m: 0
+2025-01-14T06:14:49.003Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 6, [31mFailed[39m: 0
+2025-01-14T06:15:00.089Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time)
+2025-01-14T06:15:00.090Z INFO: Scheduled evaluation for alert id2 at Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time)
+2025-01-14T06:15:00.091Z INFO: Scheduled evaluation for alert id5 at Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time)
+2025-01-14T06:15:00.091Z INFO: Scheduled evaluation for alert id6 at Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time)
+2025-01-14T06:15:00.092Z INFO: Scheduled evaluation for alert id7 at Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time)
+2025-01-14T06:15:00.606Z INFO: Alert id2 did not trigger at Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time)
+2025-01-14T06:15:00.608Z ERROR: ALERT id2 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time), Lag: 518 ms
+2025-01-14T06:15:00.700Z INFO: Alert id5 did not trigger at Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time)
+2025-01-14T06:15:00.702Z ERROR: ALERT id5 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time), Lag: 611 ms
+2025-01-14T06:15:00.777Z INFO: Alert id7 triggered at Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time)
+2025-01-14T06:15:00.779Z ERROR: ALERT id7 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time), Lag: 687 ms
+2025-01-14T06:15:00.823Z INFO: Alert id1 triggered at Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time)
+2025-01-14T06:15:00.824Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time), Lag: 735 ms
+2025-01-14T06:15:00.901Z INFO: Alert id6 triggered at Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time)
+2025-01-14T06:15:00.903Z ERROR: ALERT id6 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:45:00 GMT+0530 (India Standard Time), Lag: 812 ms
+2025-01-14T06:15:09.010Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 11, [31mFailed[39m: 0
+2025-01-14T06:15:29.022Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 11, [31mFailed[39m: 0
+2025-01-14T06:15:49.025Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 11, [31mFailed[39m: 0
+2025-01-14T06:16:00.734Z INFO: Scheduled evaluation for alert id1 at Tue Jan 14 2025 11:46:00 GMT+0530 (India Standard Time)
+2025-01-14T06:16:00.736Z INFO: Scheduled evaluation for alert id4 at Tue Jan 14 2025 11:46:00 GMT+0530 (India Standard Time)
+2025-01-14T06:16:01.514Z INFO: Alert id1 triggered at Tue Jan 14 2025 11:46:01 GMT+0530 (India Standard Time)
+2025-01-14T06:16:01.516Z ERROR: ALERT id1 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:46:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:46:01 GMT+0530 (India Standard Time), Lag: 782 ms
+2025-01-14T06:16:01.528Z INFO: Alert id4 did not trigger at Tue Jan 14 2025 11:46:01 GMT+0530 (India Standard Time)
+2025-01-14T06:16:01.530Z ERROR: ALERT id4 LAG DETECTED: Scheduled: Tue Jan 14 2025 11:46:00 GMT+0530 (India Standard Time), Actual: Tue Jan 14 2025 11:46:01 GMT+0530 (India Standard Time), Lag: 794 ms
+2025-01-14T06:16:09.040Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 13, [31mFailed[39m: 0
+2025-01-14T06:16:29.053Z INFO: Evaluation Summary: [32mSuccess[39m: 0, [33mLagged[39m: 13, [31mFailed[39m: 0
